@@ -1,0 +1,2 @@
+# X-ray-Burst-Lab-Multi-Instrument-Transient-Detection-and-ML-Assisted-Morphology
+Developing a Python framework for detecting and characterizing X-ray bursts across instruments. The prototype generates synthetic light curves and detects anomalies in NICER data. Planned work includes multi-mission event ingestion, ML-based detection, burst morphology analysis, and validation against real observations
